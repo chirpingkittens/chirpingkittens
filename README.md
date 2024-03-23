@@ -3,6 +3,7 @@
 <!--
 **chirpingkittens/chirpingkittens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+Embracing change. 
 
 - 📚 I studied IndE, business process + information engineering.
 - 🌱 I’m now teaching, it's a different kind of stressful 
